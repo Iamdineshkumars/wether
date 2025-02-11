@@ -11,7 +11,7 @@ const InputField = () => {
     const fetchData = async()=>{ {/*this asyncfunction is for fetching the query from The wether Api by passing the query by useState as city*/}
       
         try{
-           const response = await axios.get(`http://api.weatherapi.com/v1/forecast.json?key=${import.meta.env.VITE_API_KEY}&q=${city}&days=${days}`);
+           const response = await axios.get(`https://api.weatherapi.com/v1/forecast.json?key=${import.meta.env.VITE_API_KEY}&q=${city}&days=${days}`);
            console.log(response);
            setData([response.data])
         }
