@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.dark-theme{
+  background-color: #333;
+  color: #f0f0f0;
+}
+
+.toggle-icon{
+  height:30px;
+  width: 30px;
+  
+}
