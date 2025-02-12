@@ -15,7 +15,7 @@ State Management: useState, useEffect, Context API (used for toggle the dark the
 
 📦 Installation & Setup
 1) Clone the repository:
-       git clone https://github.com/your-username/weather-dashboard.git
+       git clone https://github.com/Iamdineshkumars/wether.git
        cd weather-dashboard
 2) Install dependencies:
        npm install
