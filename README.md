@@ -9,9 +9,9 @@ Discription : A Weather Dashboard built with React is a user-friendly web applic
 5) 3-Day Forecast – Displays weather predictions for the next three days, including temperature highs/lows, weather conditions, and icons for better visualization.
 
 🛠️ Tech Stack
-Frontend: React.js, Tailwind CSS
-API: weather api
-State Management: useState, useEffect, Context API (used for toggle the dark theme button).
+1) Frontend: React.js, Tailwind CSS
+2) API: weather api
+3) State Management: useState, useEffect, Context API (used for toggle the dark theme button).
 
 📦 Installation & Setup
 1) Clone the repository:
