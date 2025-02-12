@@ -26,6 +26,9 @@ Discription : A Weather Dashboard built with React is a user-friendly web applic
 🚀 Deployment
 Deployed on Netlify (https://wetherdashboard.netlify.app/).
 
+## output :
+ ![Image](https://github.com/user-attachments/assets/4044ec07-df23-4a0c-b7c2-5664f80eebcc)
+
 👨‍💻 Author
 Name : Dinesh kumar
    
